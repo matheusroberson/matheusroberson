@@ -25,22 +25,3 @@
 </div>
 
 ##
-
-<div align="center" style="display: flex; flex-direction: column">
-  <div style="margin-bottom: 12px">
-    <a href="https://github.com/matheusroberson/saude">  
-      <img alt="repo-saude" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusroberson&repo=saude&theme=prussian"/>
-    </a>
-    <a href="https://github.com/matheusroberson/monorepo">  
-      <img alt="repo-monorepo" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusroberson&repo=monorepo&theme=prussian"/>
-    </a>
-  </div>
-  <div>
-    <a href="https://github.com/matheusroberson/apifood">  
-      <img alt="repo-apifood" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusroberson&repo=apifood&theme=prussian"/>
-    </a>
-    <a href="https://github.com/matheusroberson/apipokemon">  
-      <img alt="repo-apipokemon" src="https://github-readme-stats.vercel.app/api/pin/?username=matheusroberson&repo=apipokemon&theme=prussian"/>
-    </a>
-  </div>
-</div>
