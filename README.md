@@ -2,7 +2,7 @@
   <a href="https://github.com/matheusroberson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusroberson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=matheusroberson&theme=tokyonight&layout=compact"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=matheusroberson&theme=tokyonight&layout=compact"/> -->
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
